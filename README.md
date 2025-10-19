@@ -3,11 +3,12 @@
 
 ### A undergraduate majoring CS in BUAA
 
-- 🔭 I'm currently working on **A c++ Compiler generating risc-v from sysy(simplified c language)**
+- 🔭 I’m currently working on **simplified C-to-riscv compiler implemented by c++**
 - 🌱 I'm currently learning **Go and CV**
 - 📫 How to reach me **rookiez1513@gmail.com**
 - 📝 I regularly write articles on **[https://rookie-zgy1513.github.io/](https://rookie-zgy1513.github.io/)**
 - 📄 Know about my experiences **[https://rookie-zgy1513.github.io/myCV.pdf](https://rookie-zgy1513.github.io/myCV.pdf)**
+- 😄 Pronouns: He/him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
