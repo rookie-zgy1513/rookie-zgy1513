@@ -3,7 +3,7 @@
 
 ### A undergraduate majoring CS in BUAA
 
-- 🔭 I’m currently working on **simplified C-to-riscv compiler implemented by c++**
+- 🔭 I’m currently working on **simplified C-to-riscv compiler implemented by C++**
 - 🌱 I'm currently learning **Go and CV**
 - 📫 How to reach me **rookiez1513@gmail.com**
 - 📝 I regularly write articles on **[https://rookie-zgy1513.github.io/](https://rookie-zgy1513.github.io/)**
